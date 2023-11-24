@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todoap/static/css/main.6e45a395.css",
+    "main.js": "/todoap/static/js/main.129fa20a.js",
+    "static/js/787.edcecbf6.chunk.js": "/todoap/static/js/787.edcecbf6.chunk.js",
+    "index.html": "/todoap/index.html",
+    "main.6e45a395.css.map": "/todoap/static/css/main.6e45a395.css.map",
+    "main.129fa20a.js.map": "/todoap/static/js/main.129fa20a.js.map",
+    "787.edcecbf6.chunk.js.map": "/todoap/static/js/787.edcecbf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e45a395.css",
+    "static/js/main.129fa20a.js"
+  ]
+}
